@@ -30,3 +30,5 @@ Self is are type kind interface,
 * Brightness ( Black )
 * Morale [ Green ]
 * Saturation { White } 
+
+<h3 align="center">Mate Xs 2</h3>
