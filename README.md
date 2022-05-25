@@ -24,3 +24,9 @@ Context is 7 wireless bluetooth cord,
 
 
 <h2 align="center">var</h2>
+
+Self is are type kind interface,
+
+* Brightness ( Black )
+* Morale [ Green ]
+* Saturation { White } 
